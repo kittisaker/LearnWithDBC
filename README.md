@@ -1,7 +1,8 @@
-# LearnWithDBC
+# LearnWithDBC : Create Image and Text by AI
 
-* l20231025 : Replit basic (Part 1)
-* l20231026 : Create an Image by AI
-* 
+## Setup project
+
+1. Goto https://www.meshy.ai/
+2. Generate
 
 ---
